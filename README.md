@@ -56,3 +56,4 @@ RegisterNumber:25016414
 <img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/0e49a689-149f-4307-94c7-ff1c8229bde2" />
 
 **RESULTS**
+Program for JK flipflops was verified in quartus using Verilog programming.
